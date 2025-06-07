@@ -40,7 +40,8 @@ SELECT * FROM desastres;
 SELECT * FROM usuario;
 \q
 
-
+# Para usar a api fora do app mobile:
+http://localhost:8080/swagger-ui/index.html#/
 
 # Integração com App Mobile
 ### COM O BD E A API ABERTOS!!!
