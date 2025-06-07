@@ -44,5 +44,4 @@ docker stop disasterhelp-api postgres-db
 docker rm disasterhelp-api postgres-db  
 docker volume rm pgdata  
 
-Autor
 RM551382 Michael Leon
