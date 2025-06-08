@@ -1,3 +1,7 @@
+APRESENTAÇÃO DO PROJETO:
+
+https://www.youtube.com/watch?v=sjBUpCYuc6Y
+
 API RESTful desenvolvida em Java com Spring Boot para cadastro e gerenciamento de desastres ambientais. Projeto da Global Solution FIAP 2025 (1º semestre).
 
 Testado no cmd do Windows
